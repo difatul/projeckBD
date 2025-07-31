@@ -1,5 +1,4 @@
-daftar-biodata-siswa
-==
+#daftar-biodata-siswa
 Daftar biodata siswa SMK Maskumambang
 --
 *Berikut adalah biodata siswa terdiri yang dari 3 angkatan.*
